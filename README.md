@@ -2,7 +2,9 @@
 
 This is a Proxy Server for Node.js submitted as the [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
 
-Time spent: 3-4 hoursCompleted:
+Time spent: 3-4 hours
+
+Completed:
 
 * [x] Required: Requests to port `8000` are echoed back with the same HTTP headers and body
 * [x] Required: Requests/reponses are proxied to/from the destination server
